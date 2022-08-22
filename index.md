@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kaitlyn's Programming 1 Portfolio
 
 You can use the [editor on GitHub](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
