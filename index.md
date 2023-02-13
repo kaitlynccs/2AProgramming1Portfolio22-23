@@ -4,7 +4,8 @@
 
 ### OOP Calculator
 Graphic based OOP calculator.
-Source Code
+![Running Calculator]()
+[Source Code]()
 Exported Application
 
-## Programming 1 Semester 2 Projects
+## Programming 2 Semester 2 Projects
