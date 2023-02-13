@@ -12,7 +12,7 @@ Graphic based OOP calculator.
 ### SpaceGame
 
 Graphic Based Space Shooting Game
-![Running SpaceGame]()
+![Running SpaceGame](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/SpaceGame.png?raw=true)
 
 [Source Code]()
 
