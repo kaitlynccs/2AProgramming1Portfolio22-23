@@ -12,14 +12,14 @@ Graphic based OOP calculator.
 ### SpaceGame
 
 Graphic Based Space Shooting Game
-![Running Calculator]()
+![Running SpaceGame]()
 
 [Source Code]()
 
 ### ScreenSaver
 
 Random Screen Lines
-![Running Calculator](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/screensaver.png?raw=true)
+![Running ScreenSaver](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/screensaver.png?raw=true)
 
 [Source Code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/screensaver)
 
