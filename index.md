@@ -21,7 +21,7 @@ Graphic Based Space Shooting Game
 Random Screen Lines
 ![Running Calculator]()
 
-[Source Code]((https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/screensaver)
+[Source Code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/screensaver)
 
 ## Programming 2 Semester 2 Projects
 
