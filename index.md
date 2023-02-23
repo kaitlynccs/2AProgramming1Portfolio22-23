@@ -27,6 +27,6 @@ Random Screen Lines
 
 ### Pig Latin Converter
 pig latin string converter
-![Running ScreenSaver](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/screensaver.png?raw=true)
+![Running ScreenSaver](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/Screenshot%20(37).png?raw=true)
 
 [Source Code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/screensaver)
