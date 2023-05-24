@@ -2,8 +2,8 @@
 
 ## Certifications
 
-Programming 1 State Certification:
-Python Code State Certification:
+Computer Programming 1 State Certification Test 820
+Computer Programming 2 Python Code State Certification Test 827
 
 ## Projects
 
