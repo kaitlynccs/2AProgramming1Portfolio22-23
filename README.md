@@ -12,6 +12,7 @@ Hangman Aqua if a graphic-based game that puts a twist on the classic hangman ga
 
 ![Image](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/7703726c311ea85dde1985d9cf193da3b864e2f4/images/Screen%20Shot%202023-05-24%20at%209.16.33%20AM.png)
 [Group Repository](https://github.com/anaghafari/Python-Group.git)
+[Exported Application](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/165faab2af72570a4f69244ccf90c54a66d55d02/src/hangmanaqua/hangmanaqua.zip)
 
 ### Individual Projects
 #### ShapeTester (Python)
@@ -31,15 +32,18 @@ SpaceGame is an interactive game. In the game, you will be controlling a spacesh
 
 ![Image](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/SpaceGame.png)
 [Source code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/spacegame)
+[Exported Application for Windows](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/351ea8baa771c541a643da5396dadd05bbba1b2b/src/spacegame/windows-amd64.zip)
 
 #### Calculator (Java)
 This is a fully functioning calculator. All you have to do is input the desired calculation and this calculator app will print on the console the correct answer. 
 
 ![Image](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/calc.png)
 [Source code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/calculator)
+[Exported Application for Mac](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/e5f1bc81397944813186d23b4049c433e7792c10/src/calculator/macos-x86_64%2010.08.10%20AM.zip)
 
 #### ScreenSaver (Java)
 The ScreenSaver app is not interactive. Instead, with the desired colors, a random pattern will appear, perfect for actually using as a screensaver. 
 
 ![Image](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/screensaver.png)
 [Source Code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/screensaver)
+[Exported Application for Mac](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/46c3c1d51a69516a2c4e84f0b0235ce3c35d18c0/src/screensaver/macos-x86_64.zip)
