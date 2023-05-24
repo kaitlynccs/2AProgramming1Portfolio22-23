@@ -2,7 +2,8 @@
 
 ## Certifications
 
-
+Programming 1 State Certification:
+Python Code State Certification:
 
 ## Projects
 
