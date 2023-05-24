@@ -1,32 +1,50 @@
-# Welcome to Kaitlyn's Programming 1 Portfolio
+# 2AProgramming1Portfolio22-23 | Kaitlyn Cao | Email: kaitlyncao2007@gmail.com
 
-## Programming 1 Semester 1 Projects: 
+## Certifications
 
-### OOP Calculator
+Computer Programming 1 State Certification Test 820 and 
+Computer Programming 2 Python Code State Certification Test 827
 
-Graphic based OOP calculator.
-![Running Calculator](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/calc.png?raw=true)
+## Projects
 
-[Source Code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/calculator)
+### Group Project
+#### Hangman Aqua
+Hangman Aqua if a graphic-based game that puts a twist on the classic hangman game. Instead of adding on body parts as a consequence for guessing a letter wrong, the hangman image is static and there will be water that rises. If you guess a letter correctly, that lettter will appear on the black lines that indicate how many letters there are in the word. After 5 times of getting a letter wrong, the game will end. Have fun and good luck!
 
-### SpaceGame
+![Image](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/7703726c311ea85dde1985d9cf193da3b864e2f4/images/Screen%20Shot%202023-05-24%20at%209.16.33%20AM.png)
+[Group Repository](https://github.com/anaghafari/Python-Group.git)
+[Exported Application](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/165faab2af72570a4f69244ccf90c54a66d55d02/src/hangmanaqua/hangmanaqua.zip)
 
-Graphic Based Space Shooting Game
-![Running SpaceGame](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/SpaceGame.png?raw=true)
+### Individual Projects
+#### ShapeTester (Python)
+ShapeTester is a python-based interactive game. When you run the code, you will be able to choose either a box, pyramid, or sphere to calculate the surface area and volume for. Input your desired measurements and get the correct answer. 
 
-[Source Code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/spacegame)
+![Image](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/abac315cc1e226b7a411520379937e5bebf1bab0/images/Screen%20Shot%202023-05-24%20at%209.37.14%20AM.png)
+[Source Code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/bee6603152203bbb76d1a15df4dc3cc4b0b0eb21/src/ShapeTester)
 
-### ScreenSaver
+#### Number Guessing Game (Python)
+This Number Guessing Game is an interactive python game that requires the user to enter a number from 1-100. The computer will automatically generate a random digit and the goal is for the user to guess that random digit. With every guess, the game will also tell you if the guess was too high or too low or just correct. Then, you can guess again. 
 
-Random Screen Lines
-![Running ScreenSaver](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/screensaver.png?raw=true)
+![Image](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/e662685c21ce3aec2c85d13e8d920b43c87b5034/images/Screen%20Shot%202023-05-24%20at%209.39.26%20AM.png)
+[Source Code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/9911d654d9e76356ccd04d885bf7246a0c737086/src/Number-Guessing-Game)
 
+#### SpaceGame (Java)
+SpaceGame is an interactive game. In the game, you will be controlling a spaceship that shoots lasers at the rocks that are falling everytime you click your mouse. Be careful to avoid the rocks as those will decrease your health. Explore the features of the game which also include powerups, levels, and more. 
+
+![Image](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/SpaceGame.png)
+[Source code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/spacegame)
+[Exported Application for Windows](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/351ea8baa771c541a643da5396dadd05bbba1b2b/src/spacegame/windows-amd64.zip)
+
+#### Calculator (Java)
+This is a fully functioning calculator. All you have to do is input the desired calculation and this calculator app will print on the console the correct answer. 
+
+![Image](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/calc.png)
+[Source code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/calculator)
+[Exported Application for Mac](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/e5f1bc81397944813186d23b4049c433e7792c10/src/calculator/macos-x86_64%2010.08.10%20AM.zip)
+
+#### ScreenSaver (Java)
+The ScreenSaver app is not interactive. Instead, with the desired colors, a random pattern will appear, perfect for actually using as a screensaver. 
+
+![Image](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/screensaver.png)
 [Source Code](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/tree/gh-pages/src/screensaver)
-
-## Programming 2 Semester 2 Projects
-
-### Pig Latin Converter
-pig latin string converter
-![Running ScreenSaver](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/gh-pages/images/Screenshot%20(37).png?raw=true)
-
-[Source Code]()
+[Exported Application for Mac](https://github.com/kaitlynccs/2AProgramming1Portfolio22-23/blob/46c3c1d51a69516a2c4e84f0b0235ce3c35d18c0/src/screensaver/macos-x86_64.zip)
